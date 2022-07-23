@@ -1,0 +1,2 @@
+# LinkedinMoodle-Database
+In this project, you will design a database model for the virtually integrated version (say LinkedinMoodle) of the popular web applications LinkedIn and Moodle. The project is more than a technical implementation project, which means it should much more concentrated on the design of the database. How you integrated these web applications is critical for the evaluation and the originality of your design is crucial.
